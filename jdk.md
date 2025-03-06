@@ -40,7 +40,8 @@ The JDK consists of the following main components:
 
 ## **2. JDK Architecture Diagram**
 ```
-https://media.geeksforgeeks.org/wp-content/uploads/20201023214841/gfgjdk-660x423.jpg
+![gfgjdk-660x423](https://github.com/user-attachments/assets/f9abc7ff-5a8a-44b2-a3ee-c3f194b83f0e)
+
 ```
 
 
